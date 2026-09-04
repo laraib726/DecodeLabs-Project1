@@ -7,4 +7,4 @@ Welcome to my repository for the DecodeLabs Frontend Web Development Internship.
 ## Task 1: Travel Website (Sky At High)
 
 - Description: A responsive travel landing page layout built using HTML5 and CSS3. It features a modern hero section, navigation bar, and destination cards.
-- Live Demo: (Add your live link here after publishing)
+- Live Demo: https://laraib726.github.io/DecodeLabs-Internship-Project1/
