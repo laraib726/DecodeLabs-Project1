@@ -1,10 +1,10 @@
-# DecodeLabs Internship Projects
+# DecodeLabs Internship — Project 1: Travel Website (Sky At High)
 
-Welcome to my repository for the DecodeLabs Frontend Web Development Internship. In this repository, I will be sharing all the tasks and projects assigned during the program.
+A responsive travel landing page layout built using HTML5 and CSS3. It features a modern hero section, navigation bar, and destination cards.
 
----
+## 🚀 Live Demo
+- **Live Preview:** https://laraib726.github.io/DecodeLabs-Internship-Project1/
 
-## Task 1: Travel Website (Sky At High)
-
-- Description: A responsive travel landing page layout built using HTML5 and CSS3. It features a modern hero section, navigation bar, and destination cards.
-- Live Demo: https://laraib726.github.io/DecodeLabs-Internship-Project1/
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
