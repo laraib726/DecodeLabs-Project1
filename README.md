@@ -1,6 +1,6 @@
-# DecodeLab Internship Projects
+# DecodeLabs Internship Projects
 
-Welcome to my repository for the DecodeLab Frontend Web Development Internship. In this repository, I will be sharing all the tasks and projects assigned during the program.
+Welcome to my repository for the DecodeLabs Frontend Web Development Internship. In this repository, I will be sharing all the tasks and projects assigned during the program.
 
 ---
 
